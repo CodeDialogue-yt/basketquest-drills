@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "name_key": "drill_free_throws_name",
+    "name_key": "drill_free_throw_name",
     "category_key": "category_shooting",
     "description_key": "drill_free_throw_desc",
     "difficulty": 2,
