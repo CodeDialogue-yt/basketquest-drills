@@ -18,5 +18,15 @@
     "instructions": "5 swished shots on 5 positions",
     "video_url": "https://www.youtube.com/watch?v=ghi789rst",
     "xp": 25
+  },
+  {
+    "id": 3,
+    "name_key": "drill_free_throws",
+    "category_key": "category_shooting",
+    "description_key": "drill_free_throw_desc",
+    "difficulty": 2,
+    "instructions": "Make 10 free throws",
+    "video_url": "https://www.youtube.com/watch?v=ghi789rst",
+    "xp": 30
   }
 ]
