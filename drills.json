@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name_key": "drill_mikan_name",
+    "category_key": "category_layups",
+    "description_key": "drill_mikan_desc",
+    "difficulty": 2,
+    "instructions": "3 sets of 20 layups (10 layups each hand)",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "xp": 20
+  },
+  {
+    "id": 2,
+    "name_key": "drill_formshooting_name",
+    "category_key": "category_shooting",
+    "description_key": "drill_formshooting_desc",
+    "difficulty": 1,
+    "instructions": "5 swished shots on 5 positions",
+    "video_url": "https://www.youtube.com/watch?v=ghi789rst",
+    "xp": 25
+  }
+]
