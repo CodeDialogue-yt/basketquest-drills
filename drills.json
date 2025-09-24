@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name_key": "drill_mikan_name",
-    "category_key": "category_layups",
+    "category_key": "category_inside",
     "description_key": "drill_mikan_desc",
     "difficulty": 2,
     "instructions": "3 sets of 20 layups (10 layups each hand)",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "name_key": "drill_formshooting_name",
-    "category_key": "category_shooting",
+    "category_key": "category_outside",
     "description_key": "drill_formshooting_desc",
     "difficulty": 1,
     "instructions": "5 swished shots on 5 positions",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "name_key": "drill_free_throw_name",
-    "category_key": "category_shooting",
+    "category_key": "category_outside",
     "description_key": "drill_free_throw_desc",
     "difficulty": 2,
     "instructions": "Make 10 free throws",
