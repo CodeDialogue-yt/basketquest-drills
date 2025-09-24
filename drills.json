@@ -7,7 +7,8 @@
     "difficulty": 2,
     "instructions": "3 sets of 20 layups (10 layups each hand)",
     "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "xp": 20
+    "xp": 20,
+    "rating": "layup"
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
     "difficulty": 1,
     "instructions": "5 swished shots on 5 positions",
     "video_url": "https://www.youtube.com/watch?v=ghi789rst",
-    "xp": 25
+    "xp": 25,
+    "rating": "close shot"
   },
   {
     "id": 3,
@@ -27,6 +29,7 @@
     "difficulty": 2,
     "instructions": "Make 10 free throws",
     "video_url": "https://www.youtube.com/watch?v=ghi789rst",
-    "xp": 30
+    "xp": 30,
+    "rating": "free throw"
   }
 ]
